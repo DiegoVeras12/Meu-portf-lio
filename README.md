@@ -1,2 +1,2 @@
 # Meu-portfólio
-Criando um portfólio para apresentação 
+Diego Veras, estudante de desenvolvimento Front End pelo programa Bolsa Futuro Digital promovido pela Softex do Estado de Pernambuco. Adquirindo informações fundamentais para a web sobre — HTML5, CSS/SCSS e JavaScript — Busco aprimorar meus conhecimentos com o objetivo de aprimorar funis de vendas pela internet incorporando aos conhecimentos da área de Marketing onde atuo. A ideia pricipal de querer me tornar um programador de Front-end é poder desenvolver páginas que agregudem e proporcionem uma jornada de satisfação, prazer e experiências que levem o cliente ou usuário a encontrar o que procura.
